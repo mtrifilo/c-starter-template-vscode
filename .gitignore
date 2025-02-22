@@ -1,0 +1,6 @@
+# Build artifacts
+*.dSYM/
+hello_world
+
+# IDE specific
+.vscode/ipch/

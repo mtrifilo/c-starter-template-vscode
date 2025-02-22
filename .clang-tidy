@@ -1,0 +1,12 @@
+Checks: '*,
+        -altera-*,
+        -fuchsia-*,
+        -llvmlibc-*,
+        -llvm-header-guard,
+        bugprone-*,
+        clang-analyzer-*,
+        misc-*,
+        performance-*,
+        portability-*,
+        readability-*'
+FormatStyle: 'file' 

@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "${workspaceFolder}",
+    "command": "clang -Wall -Wextra -Wpedantic -std=c17 hello_world.c -o hello_world",
+    "file": "hello_world.c"
+  }
+]
